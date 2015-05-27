@@ -1,2 +1,2 @@
 # booking_php
-Online Seat Booking using LAMP
+-Online Seat Booking using LAMP-
